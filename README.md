@@ -1,4 +1,4 @@
-# Mémoire de M1 sur le Machine Learning
+# Travail encadré de recherche M1-Mathématiques sur le Machine Learning
 
 Dans ce devoir, j'explique ce à quoi peut correspondre le Machine Learning en développant sur des modèles d'apprentissages supervisés.
 
