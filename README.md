@@ -1,7 +1,6 @@
-# Travail encadré de recherche M1-Mathématiques sur le Machine Learning
+# M1-Mathématiques : Travail encadré de recherche sur le Machine Learning
 
 Dans ce devoir, j'explique ce à quoi peut correspondre le Machine Learning en développant sur des modèles d'apprentissages supervisés.
 
-Sont présentés la regréssion linéaire, la régression logistique accompagnés dans la dernière partie du document par des exemples d'utilisation issus des exercices du cours en ligne Machine Learning par Andrew Ng.
+Dans ce TER sont présentés la regréssion linéaire, la régression logistique et les réseaux de neurones. Les deux premières notions seront accompagnées dans la dernière partie du document d'exemples d'utilisation issus des exercices du cours en ligne Machine Learning par Andrew Ng.
 
-On trouvera aussi dans le devoir une présentation des réseaux de neurones et leur fonctionnement.
